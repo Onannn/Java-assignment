@@ -1,0 +1,29 @@
+h1 {
+    font-size : 100px;
+}
+p {
+    font-size: 50px;
+}
+table, th, td {
+    font-size:30px;
+    border: 1px solid black;
+}
+th {
+    text-align: right;
+}
+table{
+    border-spacing:50px;
+    border-collapse: collapse;
+}
+#refr {
+    background-color: aqua;
+}
+.pewpew {
+    background-color: blue;
+}
+table {
+    width: 200px;
+}
+th, td {
+    height:150px;
+}
